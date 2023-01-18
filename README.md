@@ -10,7 +10,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Jungeun%20Github&fontSize=80" />	
 </div>
 <div align="center">
-	<h2>📚 Tech Stack 📚</h2><br>
+	<h3>📚 Tech Stack 📚</h3><br>
 	<p>✨ Languages & FrameWork ✨</p>
 </div>
 <div align="center">
