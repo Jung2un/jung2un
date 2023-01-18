@@ -10,7 +10,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Jungeun%20Github&fontSize=80" />	
 </div>
 <div align="center">
-	<h3>📚 Tech Stack 📚</h3>
+	<h2>📚 Tech Stack 📚</h2><br>
 	<p>✨ Languages & FrameWork ✨</p>
 </div>
 <div align="center">
@@ -57,6 +57,6 @@
    <a href="https://www.notion.so/Swift-1-49e9019b81a440729495abfd8f1210ef">
        <img src="https://img.shields.io/badge/jungeun-000000?style=flat-square&logo=notion&logoColor=white"/>
    </a> -->
-   
-<br>
+
+<br><br>
 </div>
