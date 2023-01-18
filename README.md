@@ -58,5 +58,5 @@
        <img src="https://img.shields.io/badge/jungeun-000000?style=flat-square&logo=notion&logoColor=white"/>
    </a> -->
 
-<br><br>
+<br>
 </div>
