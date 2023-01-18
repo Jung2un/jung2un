@@ -48,7 +48,7 @@
         👉 Email : j_eun_2@naver.com<br>
         👉 Phone : 010-5555-1672<br>
         👉 Blog : <a href="https://velog.io/@jeun_ios"><img src="https://img.shields.io/badge/jeun_ios.log-20C997?style=flat-square&logo=Velog&logoColor=white"/></a><br>
-        👉 Github : <a href=""><img src="https://img.shields.io/badge/Projects-000000?style=flat-square&logo=github&logoColor=white"/></a><br>
+        👉 Github : <a href=""><img src="https://img.shields.io/badge/Projects-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
    </div>
 
    <!-- <a href="https://yermi.co.kr">
