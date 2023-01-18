@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-	<p>🎄 DevOps & Tool 🎄</p>
+	<p>🧩 DevOps & Tool 🧩</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -47,22 +47,15 @@
    <div>
         👉 Email : j_eun_2@naver.com<br>
         👉 Phone : 010-5555-1672<br>
+        👉 Blog : <a href="https://velog.io/@jeun_ios"><img src="https://img.shields.io/badge/jeun_ios.log-20C997?style=flat-square&logo=Velog&logoColor=white"/></a><br>
+        👉 Github : <a href=""><img src="https://img.shields.io/badge/Projects-000000?style=flat-square&logo=github&logoColor=white"/></a><br>
    </div>
-   <br>
-   <a href="https://velog.io/@jeun_ios">
-       <img src="https://img.shields.io/badge/jeun_ios.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/>
+
+   <!-- <a href="https://yermi.co.kr">
+        <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
    </a>
    <a href="https://www.notion.so/Swift-1-49e9019b81a440729495abfd8f1210ef">
        <img src="https://img.shields.io/badge/jungeun-000000?style=flat-square&logo=notion&logoColor=white"/>
-   </a>
-   <br>
-   <br>
+   </a> -->
 
-   <!-- <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835">
-     <img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/>
-   </a>
-   <a href="https://yermi.co.kr">
-     <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-   </a>
-   <br> -->
 </div>
